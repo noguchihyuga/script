@@ -1,4 +1,4 @@
 pcall(function()
     game:HttpGet("https://apiofnoguchihyuga.onrender.com/execute")
 end)
-return "Thank for using!"
+return "I need money for continue script. Sorry for uncomfortable"
